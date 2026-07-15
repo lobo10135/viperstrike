@@ -1,2 +1,0 @@
-# viperstrike
-Viper Strike Strategie
